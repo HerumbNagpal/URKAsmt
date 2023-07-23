@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UrkAsmt/static/css/main.4b7f1dac.css",
+    "main.js": "/UrkAsmt/static/js/main.6addf540.js",
+    "index.html": "/UrkAsmt/index.html",
+    "main.4b7f1dac.css.map": "/UrkAsmt/static/css/main.4b7f1dac.css.map",
+    "main.6addf540.js.map": "/UrkAsmt/static/js/main.6addf540.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b7f1dac.css",
+    "static/js/main.6addf540.js"
+  ]
+}
